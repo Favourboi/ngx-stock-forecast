@@ -35,5 +35,5 @@ Sample chart of **Top 5 Companies by Trading Volume**:
 ## 💡 How to Use
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/<your-username>/nigerian-stock-analysis.git
-   cd nigerian-stock-analysis
+   git clone https://github.com/Favourboi/ngx-stock-forecast.git
+   cd ngx-stock-forecast
