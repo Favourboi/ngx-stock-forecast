@@ -10,9 +10,8 @@ The analysis focuses on the **Top 5 Companies by Trading Volume**:
 - TRANSCORP  
 
 ## 📂 Project Structure
-- **datasets/** → Raw and cleaned datasets used for analysis.  
 - **plots/** → Generated plots and visualizations of stock trends.  
-- **data/** → Supporting files and intermediate data transformations.  
+- **data/** → Raw and cleaned datasets used for analysis, supporting files and intermediate data transformations.  
 - **ngx_stock_forecast.ipynb** → Jupyter Notebook containing the full analysis, data wrangling, and forecasting.  
 
 ## 🚀 Features
@@ -25,7 +24,7 @@ The analysis focuses on the **Top 5 Companies by Trading Volume**:
 - Python  
 - Pandas, NumPy  
 - Matplotlib, Seaborn  
-- Statsmodels (ARIMA, etc.)  
+- Statsmodels (Prophet, etc.)  
 - Jupyter Notebook  
 
 ## 📊 Example Output
